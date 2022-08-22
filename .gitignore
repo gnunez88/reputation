@@ -1,0 +1,7 @@
+# Ignore backup files
+**~
+**.swp
+**.bak
+**.old
+# Ignore test folders
+*test*/
